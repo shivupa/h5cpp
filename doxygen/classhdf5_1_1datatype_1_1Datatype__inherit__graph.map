@@ -1,0 +1,9 @@
+<map id="hdf5::datatype::Datatype" name="hdf5::datatype::Datatype">
+<area shape="rect" id="node2" href="$classhdf5_1_1datatype_1_1Array.html" title="array datatype " alt="" coords="263,5,420,32"/>
+<area shape="rect" id="node3" href="$classhdf5_1_1datatype_1_1Compound.html" title="compound data type " alt="" coords="245,56,438,83"/>
+<area shape="rect" id="node4" href="$classhdf5_1_1datatype_1_1Enum.html" title="compound data type " alt="" coords="261,107,421,133"/>
+<area shape="rect" id="node5" href="$classhdf5_1_1datatype_1_1Float.html" title="hdf5::datatype::Float" alt="" coords="264,157,419,184"/>
+<area shape="rect" id="node6" href="$classhdf5_1_1datatype_1_1Integer.html" title="HDF5 integer datatype. " alt="" coords="257,208,425,235"/>
+<area shape="rect" id="node7" href="$classhdf5_1_1datatype_1_1String.html" title="string datatype " alt="" coords="261,259,422,285"/>
+<area shape="rect" id="node8" href="$classhdf5_1_1datatype_1_1VLengthArray.html" title="variable length array type " alt="" coords="236,309,447,336"/>
+</map>

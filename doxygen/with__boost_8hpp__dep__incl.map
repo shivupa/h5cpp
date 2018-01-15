@@ -1,0 +1,31 @@
+<map id="/home/jenkins/h5cpp/src/h5cpp/core/with_boost.hpp" name="/home/jenkins/h5cpp/src/h5cpp/core/with_boost.hpp">
+<area shape="rect" id="node2" href="$filesystem_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/core/filesystem.hpp" alt="" coords="514,109,731,151"/>
+<area shape="rect" id="node3" href="$object__id_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/core/object\l_id.hpp" alt="" coords="255,303,417,359"/>
+<area shape="rect" id="node5" href="$file_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/file/file.hpp" alt="" coords="543,407,703,448"/>
+<area shape="rect" id="node6" href="$file_2functions_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/file/functions.hpp" alt="" coords="280,496,480,537"/>
+<area shape="rect" id="node22" href="$link__access_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/property\l/link_access.hpp" alt="" coords="1369,199,1524,255"/>
+<area shape="rect" id="node30" href="$virtual__data__map_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/property\l/virtual_data_map.hpp" alt="" coords="792,199,957,255"/>
+<area shape="rect" id="node4" href="$context_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/core/context.hpp" alt="" coords="5,407,205,448"/>
+<area shape="rect" id="node7" href="$hdf5_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/hdf5.hpp" alt="" coords="788,1313,943,1355"/>
+<area shape="rect" id="node12" href="$node_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/node.hpp" alt="" coords="771,801,959,842"/>
+<area shape="rect" id="node8" href="$link_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/link.hpp" alt="" coords="729,496,906,537"/>
+<area shape="rect" id="node9" href="$attribute_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/attribute\l/attribute.hpp" alt="" coords="537,585,692,641"/>
+<area shape="rect" id="node17" href="$link__iterator_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/link\l_iterator.hpp" alt="" coords="1363,1105,1517,1161"/>
+<area shape="rect" id="node10" href="$attribute__iterator_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/attribute\l/attribute_iterator.hpp" alt="" coords="533,793,696,849"/>
+<area shape="rect" id="node11" href="$attribute__manager_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/attribute\l/attribute_manager.hpp" alt="" coords="589,689,763,745"/>
+<area shape="rect" id="node13" href="$dataset_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/dataset.hpp" alt="" coords="837,905,1043,946"/>
+<area shape="rect" id="node15" href="$node_2functions_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/functions.hpp" alt="" coords="921,1113,1135,1154"/>
+<area shape="rect" id="node16" href="$group_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/group.hpp" alt="" coords="1186,1009,1379,1050"/>
+<area shape="rect" id="node19" href="$node__iterator_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/node\l_iterator.hpp" alt="" coords="736,1105,896,1161"/>
+<area shape="rect" id="node14" href="$chunked__dataset_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/chunked\l_dataset.hpp" alt="" coords="1049,1209,1231,1265"/>
+<area shape="rect" id="node21" href="$virtual__dataset_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/virtual\l_dataset.hpp" alt="" coords="995,1001,1162,1057"/>
+<area shape="rect" id="node18" href="$recursive__link__iterator_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/recursive\l_link_iterator.hpp" alt="" coords="1307,1209,1493,1265"/>
+<area shape="rect" id="node20" href="$recursive__node__iterator_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/recursive\l_node_iterator.hpp" alt="" coords="837,1209,1024,1265"/>
+<area shape="rect" id="node23" href="$iterator__config_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/core/iterator\l_config.hpp" alt="" coords="1269,585,1440,641"/>
+<area shape="rect" id="node24" href="$group__view_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/group\l_view.hpp" alt="" coords="1616,793,1781,849"/>
+<area shape="rect" id="node26" href="$node__view_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/node\l_view.hpp" alt="" coords="1371,897,1531,953"/>
+<area shape="rect" id="node27" href="$dataset__access_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/property\l/dataset_access.hpp" alt="" coords="1353,793,1508,849"/>
+<area shape="rect" id="node28" href="$datatype__access_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/property\l/datatype_access.hpp" alt="" coords="1936,689,2099,745"/>
+<area shape="rect" id="node29" href="$group__access_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/property\l/group_access.hpp" alt="" coords="812,303,967,359"/>
+<area shape="rect" id="node25" href="$link__view_8hpp.html" title="/home/jenkins/h5cpp\l/src/h5cpp/node/link\l_view.hpp" alt="" coords="1555,897,1709,953"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hdf5::node::Node" name="hdf5::node::Node">
+<area shape="rect" id="node2" href="$classhdf5_1_1node_1_1Dataset.html" title="hdf5::node::Dataset" alt="" coords="144,80,293,107"/>
+<area shape="rect" id="node5" href="$classhdf5_1_1node_1_1Group.html" title="hdf5::node::Group" alt="" coords="318,80,455,107"/>
+<area shape="rect" id="node3" href="$classhdf5_1_1node_1_1ChunkedDataset.html" title="dataset with chunked layout " alt="" coords="5,155,211,181"/>
+<area shape="rect" id="node4" href="$classhdf5_1_1node_1_1VirtualDataset.html" title="virtual dataset class " alt="" coords="235,155,426,181"/>
+</map>
